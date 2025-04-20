@@ -1,4 +1,4 @@
-# Sales Data Analysis
+# Data Analysis
 ## 🛠️ Tools & Libraries Used:
 
 - SQL (for querying and data exploration)
